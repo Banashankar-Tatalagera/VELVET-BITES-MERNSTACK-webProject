@@ -1,4 +1,5 @@
 # VELVET BITES - MERN Stack Web Project
+----------------------------------------------------
 
 ## Project Description
 VELVET BITES is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This project is designed to provide a seamless and dynamic user experience, featuring a modern UI, robust backend, and efficient database management.
